@@ -1,6 +1,6 @@
 # About 🚜
-### I'm not going to say "Hello, world" 🤣
-<br>
+<h2> I'm not going to say "Hello, world" 🤣</h2>
+
 
 ◼ My name is Patrick, your local frontend nerd from Brazil.
 <br>
@@ -26,5 +26,4 @@
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge"/>
 </div>
-
-##### *(probably forgot something)*
+<h5><i>(probably forgot something)<i></h5>
