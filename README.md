@@ -11,6 +11,7 @@
 
 ◼ Currently working at Tivix/Kellton. Former Accenture Brazil.
 <br>
+
 ◼ I'm not going to say "Hello, world" 🤣
 
 
