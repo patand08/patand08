@@ -1,6 +1,4 @@
 # About 🚜
-<h2> I'm not going to say "Hello, world" 🤣</h2>
-
 
 ◼ My name is Patrick, your local frontend nerd from Brazil.
 <br>
@@ -12,6 +10,8 @@
 <br>
 
 ◼ Currently working at Tivix/Kellton. Former Accenture Brazil.
+<br>
+◼ I'm not going to say "Hello, world" 🤣
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-andrade-77332a147/)
