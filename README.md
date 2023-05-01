@@ -6,7 +6,7 @@
 📍 Brazil
 <br> 
 
-◼ Portuguese *(native)*, English *(fluent - TOEIC: ?)*, Japanese *(JLPT N4)*
+◼ Portuguese *(native)*, English *(TOEIC: 985)*, Japanese *(JLPT N4)*
 <br>
 
 ◼ Currently working at Tivix/Kellton. Former Accenture Brazil.
