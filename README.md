@@ -3,10 +3,10 @@
 ◼ My name is Patrick, your local frontend nerd from Brazil.
 <br>
 
-📍 Brazil
+📍 Tokyo, Japan
 <br> 
 
-◼ Portuguese *(native)*, English *(TOEIC: 985)*, Japanese *(JLPT N4)*
+◼ Portuguese *(native)*, English *(TOEIC: 985)*, Japanese *(JLPT N4, probably N3 by now)*
 <br>
 
 ◼ Currently working at Tivix/Kellton. Former Accenture Brazil.
