@@ -3,9 +3,6 @@
 ◼ My name is Patrick, your local frontend nerd from Brazil.
 <br>
 
-📍 Tokyo, Japan
-<br> 
-
 ◼ Portuguese *(native)*, English *(TOEIC: 985)*, Japanese *(JLPT N4, probably N3 by now)*
 <br>
 
