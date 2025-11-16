@@ -6,7 +6,7 @@
 ◼ Portuguese *(native)*, English *(TOEIC: 985)*, Japanese *(JLPT N4, probably somewhere between N3 and N2 by now)*
 <br>
 
-◼ Currently working at Tivix/Kellton. Former Accenture Brazil.
+◼ Currently working at Varritech. Former Accenture Brazil, Tivix/Kellton.
 <br>
 
 ◼ I'm not going to say "Hello, world" 🤣
